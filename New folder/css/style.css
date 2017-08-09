@@ -1,0 +1,13 @@
+
+.navbar-default {background: #2a3e52;}
+.banner{overflow: hidden;background: #17BB9C;margin-top: -20px;}
+.nopad{padding: 0;}
+.header-section h1 {margin: 5px; }
+.header-section{margin:40px;}
+.portfolio{margin: 40px;}
+.portfolio img{padding-right: 5px; padding-bottom: 35px;}
+.about{
+    background: #17bb9d;padding: 40px;}
+.about button{
+    width: 150px;height: 35px;color: #ffffff;background: #17bb9d;border: 2px solid #ffffff;border-radius: 10px;}
+    
